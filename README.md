@@ -10,8 +10,8 @@ Jetpack Compose를 사용하여 Android 앱을 개발하는 방법을 학습하�
 
 ### 1. Compose 기본사항 [링크](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1?hl=ko)
 
-- [ ] 시작 튜토리얼
-- [ ] Compose 이해
+- [x] 시작 튜토리얼 
+- [x] Compose 이해 [Compose 기본 사항에 대한 이해](https://velog.io/@nter-developer/compose-essentials)
 - [ ] 구성 가능한 함수
 - [ ] 첫 번째 Compose 앱 만들기
 - [ ] Compose UI 도구 키트
