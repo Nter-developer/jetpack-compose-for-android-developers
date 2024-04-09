@@ -13,8 +13,8 @@ Jetpack Compose를 사용하여 Android 앱을 개발하는 방법을 학습하�
 - [x] 시작 튜토리얼 
 - [x] Compose 이해 [Compose 기본 사항에 대한 이해](https://velog.io/@nter-developer/compose-essentials)
 - [x] 구성 가능한 함수 [How to Composable function](https://velog.io/@nter-developer/compose-composable-fun)
-- [x] 첫 번째 Compose 앱 만들기 `hoisting `animating`` `theming`
-- [ ] Compose UI 도구 키트
+- [x] 첫 번째 Compose 앱 만들기 `hoisting` `animating` `theming`
+- [x] Compose UI 도구 키트 [Compose UI 도구 키트에 대해서 알아보자](https://velog.io/@nter-developer/compose-ui-tool-kit)
 - [ ] 실제 디자인 구현
 - [ ] 상태 시작하기
 - [ ] 도구를 사용하여 가속화
